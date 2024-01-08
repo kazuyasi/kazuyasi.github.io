@@ -9,7 +9,7 @@ kazuyasi/一矢のホームページです。
 > 『戻る』ボタンを押すことを推奨します。
 
 # リンク
-ほぼ内容は空です。
+- [Nostr](https://syusui-s.github.io/rabbit/#/npub1762knx5ffzv5sqgayjr4mwt6tvyjn4rvuyc4w43yy726p95mxhes05g3cs)
 - [X](https://twitter.com/kazuyasi)
 - [GitHub](https://github.com/kazuyasi)
 - [Qiita](https://qiita.com/kazuyasi)
@@ -46,6 +46,17 @@ kazuyasi/一矢のホームページです。
   - 英語（小学生レベル）
   - 数学（中学生レベル）
   - 物理（ギリギリ高校生レベル）
+- Game
+  - TRPG
+    - ソードワールド（無印,2.0,2.5）
+    - クゥトルフの呼び声（いわゆるCoC）
+    - FEAR系
+    - 冒険企画局ゲーム
+  - コンピューターゲーム
+    - スクウェア・エニックス系
+  - ソシャゲ
+    - ブルーアーカイブ
+    - アズールレーン
 
 # NG
 - (たとえ正しかろうと)一方的な政治談議
