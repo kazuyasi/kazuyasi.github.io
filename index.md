@@ -5,11 +5,10 @@ kazuyasi/一矢のホームページです。
 
 > [!WARNING]
 > 拡張は途中で止まるし、あまり興味深くはないでしょう。
-> 
 > 『戻る』ボタンを押すことを推奨します。
 
 # リンク
-- [Nostr](https://syusui-s.github.io/rabbit/#/npub1762knx5ffzv5sqgayjr4mwt6tvyjn4rvuyc4w43yy726p95mxhes05g3cs)
+- [Nostr](https://rabbit.syusui.net/#/npub1762knx5ffzv5sqgayjr4mwt6tvyjn4rvuyc4w43yy726p95mxhes05g3cs)
 - [X](https://twitter.com/kazuyasi)
 - [GitHub](https://github.com/kazuyasi)
 - [Qiita](https://qiita.com/kazuyasi)
